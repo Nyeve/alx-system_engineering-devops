@@ -1,0 +1,5 @@
+
+#!/usr/bin/env bash
+#env bash
+# Run Apache on container and to return a page containing a string
+sudo apt-get apache start
